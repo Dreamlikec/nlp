@@ -1,0 +1,1 @@
+from .FasttextNet import FastText
